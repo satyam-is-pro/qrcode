@@ -1,0 +1,5 @@
+{
+  "name": "QR Scanner Result",
+  "description": "A realistic smartphone QR code scanner result screen with subject selection.",
+  "requestFramePermissions": ["camera"]
+}
