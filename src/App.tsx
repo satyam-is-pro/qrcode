@@ -15,7 +15,7 @@ const profiles = {
     lead: { name: 'DIGRAJ SINGH RAJPUT', image: 'https://magazinehubz.com/wp-content/uploads/2025/01/Digraj-Singh-Rajput-Instagram-1024x1024.jpg', role: 'Educator', color: 'ring-emerald-500' }
   },
   'English': {
-    lead: { name: 'ANURAG SIR', image: 'https://picsum.https://media.licdn.com/dms/image/v2/D4D03AQFRJ2XaG21xXg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1675954256336?e=2147483647&v=beta&t=e2Ncp2L3cQ0i-dFqi6dR0fxwKQVb_qrLTXJfdLf74Ls/seed/anurag/400/400', role: 'Educator', color: 'ring-amber-500' }
+    lead: { name: 'ANURAG SIR', image: 'https://media.licdn.com/dms/image/v2/D4D03AQFRJ2XaG21xXg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1675954256336?e=2147483647&v=beta&t=e2Ncp2L3cQ0i-dFqi6dR0fxwKQVb_qrLTXJfdLf74Ls', role: 'Educator', color: 'ring-amber-500' }
   }
 };
 
